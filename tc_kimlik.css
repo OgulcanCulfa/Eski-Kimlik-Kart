@@ -1,0 +1,112 @@
+#baslik {
+    color: cornflowerblue;
+    font-weight: 600;
+}
+
+#bayrak {
+    margin-top: 30px;
+    width: 70px;
+    height: 60px;
+}
+
+#bos_kutu {
+    background-color: #bcd5da;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 40px;
+    border-style: solid;
+    border-color: #89a1bd;
+    border-width: 1.1px;
+}
+
+.bilgiler {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #89a1bd;
+    text-align: left;
+    height: 25px;
+    color: cornflowerblue;
+}
+
+.on-yuz {
+    padding-left: 50px;
+    margin-top: 30px;
+    padding-right: 50px;
+}
+
+.ic_bilgiler {
+    position: absolute;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.arka_yuz_yukseklik {
+    height: 30px;
+}
+
+.arka_yuz_bosluk {
+    height: 100px;
+}
+
+#damga {
+    width: 80px;
+    height: 80%;
+    margin-left: 40%;
+    margin-top: 15px;
+}
+
+#yukseklik {
+    height: 26px;
+}
+
+.ara_kisim {
+    background-color: #6791b6;
+    height: 100%;
+}
+
+#on_yuz_stili {
+    background-color: #d3dddf;
+    border: 8px solid #6791b6;
+    ;
+}
+
+#arka_yuz_stili {
+    background-color: #d3dddf;
+    border: 8px solid #6791b6;
+}
+
+.giris_bilgiler {
+    float: right;
+    font-weight: 400;
+    text-align: end!important;
+    color: black!important;
+    font-size: 12px;
+    border: none;
+    width: 110px;
+}
+
+.form_girisi_on {
+    margin-left: 60px;
+    margin-top: 80px;
+    width: 50%;
+}
+
+.form_girisi_arka {
+    margin-left: 60px;
+    margin-top: 80px;
+    width: 50%;
+}
+
+.yuzler {
+    margin-top: 70px;
+    margin-left: 60px;
+}
+
+#ayak {
+    padding-top: 40px;
+    margin-top: 80px;
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    height: 100px;
+}
